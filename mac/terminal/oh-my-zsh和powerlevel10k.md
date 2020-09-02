@@ -1,0 +1,1 @@
+oh-my-zsh 和 powerlevel10k
